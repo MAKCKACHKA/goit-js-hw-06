@@ -1,0 +1,25 @@
+.image-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  margin-bottom: 20px;
+}
+img {
+  width: 360px;
+  border-radius: 3px;
+  box-shadow: 10px 10px 8px 2px rgb(143, 177, 171);
+}
+
+/* 5 */
+/* #validation-input {
+  border: 3px solid #bdbdbd;
+}
+
+#validation-input.valid {
+  border-color: #4caf50;
+}
+
+#validation-input.invalid {
+  border-color: #f44336;
+} */
